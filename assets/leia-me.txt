@@ -1,0 +1,1 @@
+Por favor, renomeie a sua foto para "foto-murilo.jpg" e coloque-a dentro desta pasta (assets) para que ela apareça corretamente no seu portfólio.
